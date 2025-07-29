@@ -74,7 +74,6 @@ component-generator-platform/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AmitPrajapati-1/CodeCraftAI
-   cd component-generator-platform
    ```
 
 2. **Install dependencies**
